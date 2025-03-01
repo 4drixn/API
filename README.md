@@ -1,1 +1,1 @@
-# API
+# API for hazy's website
